@@ -2,14 +2,14 @@
   <a href="https://humanapi.co">
     <img width="200" src="https://user-images.githubusercontent.com/772506/46782575-92f16d80-ccdb-11e8-9c73-9f0a0eac5a6d.png"><br/>
   </a>
-  <h1 align="center">MediFlux for Android</h1>
+  <h1 align="center">MediFlux for React Native</h1>
 </p>
 <p align="center">
   <a href="/LICENSE"><img src="https://img.shields.io/packagist/l/doctrine/orm.svg" alt="License"></a>
   <a href="https://twitter.com/citizenhealth"><img src="https://img.shields.io/twitter/follow/CitizenHealthio.svg?style=social&logo=twitter&label=Follow" alt="Follow on Twitter"></a>
 </p>
 
-MediFlux for Android allows to authenticate to accounts with 3rd party health and medical data providers and query data and normalize it. 
+MediFlux for React Native allows to authenticate to accounts with 3rd party health and medical data providers and query data and normalize it. 
 
 MediFlux is FHIR (Fast Healthcare Interoperability Resources) compatible and facilitates data interoperability. 
 
